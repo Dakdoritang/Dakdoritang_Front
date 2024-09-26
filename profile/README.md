@@ -9,5 +9,5 @@
 ## 멋진 팀원들
 |<img src="https://avatars.githubusercontent.com/u/128358820?v=4" width="160">|<img src="https://avatars.githubusercontent.com/u/132252115?v=4" width="160">|
 |:-:|:-:|
-|[신희성 (디자인, 백엔드)](https://github.com/huise0ng)|[진건희 (프론트엔드)](https://github.com/GSMIOTjgh)|
+|[신희성 (디자인)](https://github.com/huise0ng)|[진건희 (프론트엔드)](https://github.com/GSMIOTjgh)||[김도연(백엔드)](https://github.com/kdy071115)|
 
